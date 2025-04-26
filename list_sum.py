@@ -6,4 +6,4 @@ def list_sum(numbers):
 
 marks = [10,20,30]
 sum = list_sum(marks) #Returns 60
-print(sum)
+print(sum)#
